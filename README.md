@@ -103,3 +103,4 @@ Use these files to complete the implementation:
 > - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
 # reactjs-coding-practice-7
 # reactjs-coding-practice-7
+# reactjs-coding-practice-7
