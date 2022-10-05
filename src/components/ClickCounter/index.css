@@ -1,0 +1,24 @@
+/* Write your CSS here */
+
+body {
+  margin: 0px;
+}
+
+.background-container {
+  background-color: #f1f5f8;
+  background-size: cover;
+  padding: 20px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  cursor: pointer;
+  outline: none;
+  padding: 5px;
+  border-width: 0px;
+  border-radius: 5px;
+}
